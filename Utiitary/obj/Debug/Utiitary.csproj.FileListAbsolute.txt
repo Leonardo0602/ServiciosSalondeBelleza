@@ -1,0 +1,6 @@
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Utiitary\bin\Debug\Utiitary.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Utiitary\bin\Debug\Utiitary.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Utiitary\obj\Debug\Utiitary.csproj.AssemblyReference.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Utiitary\obj\Debug\Utiitary.csproj.CoreCompileInputs.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Utiitary\obj\Debug\Utiitary.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Utiitary\obj\Debug\Utiitary.pdb

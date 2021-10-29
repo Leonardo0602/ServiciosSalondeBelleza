@@ -1,0 +1,14 @@
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Logic.dll.config
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Logic.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Logic.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Data.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Utiitary.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\EntityFramework.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Data.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Data.dll.config
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\Utiitary.pdb
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\bin\Debug\EntityFramework.xml
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\obj\Debug\Logic.dll
+C:\Users\obleo\Desktop\Universidad 6TO\software2\EjemplovuelosC#\EmpleadosyServicios\Logic\obj\Debug\Logic.pdb
